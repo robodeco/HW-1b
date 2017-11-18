@@ -135,6 +135,7 @@ hr {
 .mePic {
   width: 300px;
   float: left;
+  padding-right: 10px;
 }
 .social {
   width: 50px;
@@ -251,4 +252,7 @@ footer{
   color: #cccccc;
   text-align: center;
   line-height: 100px;
+}
+p {
+  padding: 5px;
 }
